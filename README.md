@@ -2,7 +2,7 @@
 
 
 - 🔭 A procura de uma oportunidade na área de desenvolvimento
-- 🌱 Estudando Python, Django, HTML, CSS, Javascript, Typescript e React
+- 🌱 Estudando Python, Django, HTML, CSS, Javascript, Typescript e React.
 
 
 
@@ -19,9 +19,9 @@
 ##
 
 <div> 
-  <a href="https://www.youtube.com/@bahtechtche" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@tritechtche" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/alexsandro.s.araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato.alexsaraujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato.alexsandro@mesuporte.com.br"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://www.citypng.com/public/uploads/preview/png-mail-email-address-round-outline-white-icon-701751695035072jqljrsfzsm.png)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexsandro-araújo-b54a3270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
